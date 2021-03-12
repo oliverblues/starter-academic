@@ -21,7 +21,7 @@ interests:
 - Mapping
 - GEE
 - Image processing
-- Deep learning 深度学习
+- Deep learning
 
 # Education to show in About widget
 education:
@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: wechat
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
