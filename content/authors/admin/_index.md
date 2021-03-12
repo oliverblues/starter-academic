@@ -21,7 +21,7 @@ interests:
 - Mapping
 - GEE
 - Image processing
-- Deep learning
+- Deep learning 深度学习
 
 # Education to show in About widget
 education:
